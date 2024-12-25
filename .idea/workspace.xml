@@ -28,35 +28,39 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2n8WwAYbrXe4gXDy2iSEcM0LHDD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.1.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.POD data classes.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.access controls.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.classes and initializing class members.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.methods.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.unions in c++.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/oop&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.1.cpp.executor": "Run",
+    "C/C++ File.POD data classes.cpp.executor": "Run",
+    "C/C++ File.Unions.cpp.executor": "Run",
+    "C/C++ File.access controls.cpp.executor": "Run",
+    "C/C++ File.classes and initializing class members.cpp.executor": "Run",
+    "C/C++ File.methods.cpp.executor": "Run",
+    "C/C++ File.unions in c++.cpp.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/oop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.POD data classes.cpp">
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.Unions.cpp">
     <configuration name="1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="1.cpp" CONFIG_NAME="1.cpp">
       <option name="sourceFile" value="1.cpp" />
       <method v="2">
@@ -65,6 +69,12 @@
     </configuration>
     <configuration name="POD data classes.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="POD data classes.cpp" CONFIG_NAME="POD data classes.cpp">
       <option name="sourceFile" value="POD data classes.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unions.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="Unions.cpp" CONFIG_NAME="Unions.cpp">
+      <option name="sourceFile" value="Unions\Unions.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -87,19 +97,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="unions in c++.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="unions in c++.cpp" CONFIG_NAME="unions in c++.cpp">
-      <option name="sourceFile" value="unions in c++.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.Unions.cpp" />
         <item itemvalue="C/C++ File.POD data classes.cpp" />
         <item itemvalue="C/C++ File.classes and initializing class members.cpp" />
         <item itemvalue="C/C++ File.access controls.cpp" />
         <item itemvalue="C/C++ File.methods.cpp" />
-        <item itemvalue="C/C++ File.unions in c++.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +117,7 @@
       <updated>1728355419833</updated>
       <workItem from="1728355421225" duration="146000" />
       <workItem from="1735008601969" duration="4890000" />
-      <workItem from="1735134989938" duration="393000" />
+      <workItem from="1735134989938" duration="1363000" />
     </task>
     <servers />
   </component>
