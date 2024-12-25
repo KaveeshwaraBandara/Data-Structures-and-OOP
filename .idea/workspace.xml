@@ -41,6 +41,7 @@
     "C/C++ File.POD data classes.cpp.executor": "Run",
     "C/C++ File.Unions.cpp.executor": "Run",
     "C/C++ File.access controls.cpp.executor": "Run",
+    "C/C++ File.access.cpp.executor": "Run",
     "C/C++ File.classes and initializing class members.cpp.executor": "Run",
     "C/C++ File.methods.cpp (1).executor": "Run",
     "C/C++ File.methods.cpp.executor": "Run",
@@ -61,7 +62,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="C/C++ File.methods.cpp (1)">
+  <component name="RunManager" selected="C/C++ File.access.cpp">
     <configuration name="1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="1.cpp" CONFIG_NAME="1.cpp">
       <option name="sourceFile" value="1.cpp" />
       <method v="2">
@@ -80,8 +81,8 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="access controls.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="access controls.cpp" CONFIG_NAME="access controls.cpp">
-      <option name="sourceFile" value="access controls.cpp" />
+    <configuration name="access.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="access.cpp" CONFIG_NAME="access.cpp">
+      <option name="sourceFile" value="acces controls\access.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -100,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.access.cpp" />
         <item itemvalue="C/C++ File.methods.cpp (1)" />
         <item itemvalue="C/C++ File.Unions.cpp" />
         <item itemvalue="C/C++ File.POD data classes.cpp" />
         <item itemvalue="C/C++ File.classes and initializing class members.cpp" />
-        <item itemvalue="C/C++ File.access controls.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +119,7 @@
       <updated>1728355419833</updated>
       <workItem from="1728355421225" duration="146000" />
       <workItem from="1735008601969" duration="4890000" />
-      <workItem from="1735134989938" duration="1739000" />
+      <workItem from="1735134989938" duration="2537000" />
     </task>
     <servers />
   </component>
