@@ -10,7 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fff2601-f317-4a56-b72d-e0a471b6d09f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/section 4/referances/main.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.exe" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,40 +80,40 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\oop\section 4\example with auto,tuple and for loop" />
+      <recent name="D:\oop\section 4\referances\example project" />
+      <recent name="D:\oop\section 4\referances" />
       <recent name="D:\oop\section 2\allocating memory as array" />
       <recent name="D:\oop\section 2\allocating memory" />
-      <recent name="D:\oop\section 2\arrays out of bound" />
-      <recent name="D:\oop\section 2\pointer arithmatic" />
-      <recent name="D:\oop\section 2\nullptr" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.main.cpp">
+  <component name="RunManager" selected="C/C++ File.main.cpp (4)">
     <configuration name="1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="1.cpp" CONFIG_NAME="1.cpp">
       <option name="sourceFile" value="1.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
+      <option name="sourceFile" value="section 4\referances\main.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main.cpp (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="section 2\pointer arithmatic\main.cpp" />
+      <option name="sourceFile" value="section 4\referances\example project\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="main.cpp (3)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="section 2\arrays out of bound\main.cpp" />
+      <option name="sourceFile" value="section 4\example with auto,tuple and for loop\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="main.cpp (4)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="section 2\allocating memory\main.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="main.cpp (5)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
-      <option name="sourceFile" value="section 2\allocating memory as array\main.cpp" />
+      <option name="sourceFile" value="section 4\range based for loop\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -124,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="C/C++ File.main.cpp" />
-        <item itemvalue="C/C++ File.main.cpp (5)" />
         <item itemvalue="C/C++ File.main.cpp (4)" />
         <item itemvalue="C/C++ File.main.cpp (3)" />
         <item itemvalue="C/C++ File.main.cpp (2)" />
+        <item itemvalue="C/C++ File.main.cpp (1)" />
+        <item itemvalue="C/C++ File.main.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +145,7 @@
       <workItem from="1728355421225" duration="146000" />
       <workItem from="1735008601969" duration="4890000" />
       <workItem from="1735134989938" duration="3519000" />
-      <workItem from="1735182958493" duration="13839000" />
+      <workItem from="1735182958493" duration="17503000" />
     </task>
     <servers />
   </component>
