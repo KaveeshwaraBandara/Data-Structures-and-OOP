@@ -102,7 +102,7 @@
       <recent name="D:\oop\section 2\allocating memory as array" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.example.cpp">
+  <component name="RunManager" selected="C/C++ File.main.cpp (2)">
     <configuration name="1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="1.cpp" CONFIG_NAME="1.cpp">
       <option name="sourceFile" value="1.cpp" />
       <method v="2">
@@ -121,31 +121,31 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main.cpp (1)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
+      <option name="sourceFile" value="oop mech dep slides\operator overloading\use of member function\main.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.cpp (2)" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
+      <option name="sourceFile" value="oop mech dep slides\operator overloading\use of friend function\main.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="main.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="main.cpp" CONFIG_NAME="main.cpp">
       <option name="sourceFile" value="oop mech dep slides\classes\tutorial4\main.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="markswithnames.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="markswithnames.cpp" CONFIG_NAME="markswithnames.cpp">
-      <option name="sourceFile" value="oop mech dep slides\array and functions\markswithnames.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="matrix.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop" TARGET_NAME="matrix.cpp" CONFIG_NAME="matrix.cpp">
-      <option name="sourceFile" value="oop mech dep slides\array and functions\matrix.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.main.cpp (2)" />
+        <item itemvalue="C/C++ File.main.cpp (1)" />
         <item itemvalue="C/C++ File.example.cpp" />
         <item itemvalue="C/C++ File.main.cpp" />
         <item itemvalue="C/C++ File.callcountingfunc.cpp" />
-        <item itemvalue="C/C++ File.markswithnames.cpp" />
-        <item itemvalue="C/C++ File.matrix.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +168,7 @@
       <workItem from="1735623099584" duration="1562000" />
       <workItem from="1735624696233" duration="611000" />
       <workItem from="1735649561261" duration="5940000" />
-      <workItem from="1735702787743" duration="2782000" />
+      <workItem from="1735702787743" duration="4109000" />
     </task>
     <servers />
   </component>
